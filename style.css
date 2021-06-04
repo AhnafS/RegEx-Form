@@ -21,3 +21,14 @@ form section p {
     margin: 5px;
     font-size: .7em;
 }
+
+
+/* Validation Feedback */
+
+.valid {
+    border: 5px solid green;
+}
+
+.invalid {
+    border: 5px solid red;
+}
